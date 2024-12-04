@@ -4,8 +4,12 @@
    <name>Demo-Bulk-Operation</name>
    <tag></tag>
    <UUID>e3142df5-78ef-4864-9fe6-975628fb576d</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/man.hua/git/Demo-Bulk-Operation/Demo-Bulk-Operation.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
