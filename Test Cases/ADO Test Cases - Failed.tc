@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ADO Test Cases</name>
+   <name>ADO Test Cases - Failed</name>
    <tag></tag>
    <integratedEntity>
       <productName>Azure</productName>
       <properties>
          <entry>
             <key>azure.testcase.ids</key>
-            <value>96</value>
+            <value>122</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>0f563b60-bca5-4730-a24c-1219109c3a34</testCaseGuid>
+   <testCaseGuid>bcaa9b3e-4d14-4935-87e1-56c3483ca7da</testCaseGuid>
 </TestCaseEntity>

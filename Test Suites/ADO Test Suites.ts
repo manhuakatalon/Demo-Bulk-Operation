@@ -15,7 +15,14 @@
       <guid>ca7f7d28-52ff-437a-a89f-37767089bb65</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ADO Test Cases</testCaseId>
+      <testCaseId>Test Cases/ADO Test Cases - Passed</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>32e25de2-724e-4f1f-97a5-63da2a89e1ed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ADO Test Cases - Failed</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
