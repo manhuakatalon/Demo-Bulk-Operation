@@ -49,6 +49,8 @@ WebUI.verifyTextPresent('Appointment Confirmation', false)
 WebUI.comment('Then he should be able to book a new appointment')
 
 if (true) {
+	WebUI.takeScreenshotAsCheckpoint("booked appointment")
+	
     WebUI.verifyMatch('Hongkong CURA Healthcare Center', WebUI.getText(findTestObject('Page_AppointmentConfirmation/lbl_Facility')), 
         false)
 
