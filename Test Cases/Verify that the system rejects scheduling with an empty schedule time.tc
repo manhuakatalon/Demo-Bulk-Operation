@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that the system rejects scheduling with an empty schedule time</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>955d2a5f-8d45-4165-a2fd-ac12b5de7fea</testCaseGuid>
+</TestCaseEntity>

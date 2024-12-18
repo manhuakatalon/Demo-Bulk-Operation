@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that a user can schedule a test run with valid inputs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9839f888-c4ca-4da9-ab8c-04471347afde</testCaseGuid>
+</TestCaseEntity>

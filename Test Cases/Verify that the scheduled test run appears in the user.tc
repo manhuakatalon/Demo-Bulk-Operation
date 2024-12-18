@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that the scheduled test run appears in the user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04be4b54-edcc-4cf2-a59c-bdf6c83adb25</testCaseGuid>
+</TestCaseEntity>
